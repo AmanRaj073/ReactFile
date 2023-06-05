@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Aman",
+      "email": "bravebrowser.surface@gmail.com",
+      "phone": "09973444173",
+      "password": "12345678",
+      "city": "Kolkata",
+      "state": "WB",
+      "dob": "2023-06-01",
+      "id": 2
+    }
+  ]
+}
